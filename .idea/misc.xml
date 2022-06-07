@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/komal/AndroidStudioProjects/LITfit2/app/src/main/res/drawable/background.xml" value="0.2015" />
+        <entry key="..\:/Users/komal/AndroidStudioProjects/LITfit2/app/src/main/res/drawable/background_bg.xml" value="0.1" />
+        <entry key="..\:/Users/komal/AndroidStudioProjects/LITfit2/app/src/main/res/drawable/background_bg_round.xml" value="0.1" />
+        <entry key="..\:/Users/komal/AndroidStudioProjects/LITfit2/app/src/main/res/drawable/backgroundbg.xml" value="0.126" />
+        <entry key="..\:/Users/komal/AndroidStudioProjects/LITfit2/app/src/main/res/drawable/btn.xml" value="0.209" />
+        <entry key="..\:/Users/komal/AndroidStudioProjects/LITfit2/app/src/main/res/drawable/buttong.xml" value="0.1" />
+        <entry key="..\:/Users/komal/AndroidStudioProjects/LITfit2/app/src/main/res/layout/activity_basiccrunches.xml" value="0.1492354740061162" />
+        <entry key="..\:/Users/komal/AndroidStudioProjects/LITfit2/app/src/main/res/layout/activity_basiccrunches2.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/komal/AndroidStudioProjects/LITfit2/app/src/main/res/layout/activity_bench.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/komal/AndroidStudioProjects/LITfit2/app/src/main/res/layout/activity_bench3.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/komal/AndroidStudioProjects/LITfit2/app/src/main/res/layout/activity_bicycle.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/komal/AndroidStudioProjects/LITfit2/app/src/main/res/layout/activity_bicycle4.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/komal/AndroidStudioProjects/LITfit2/app/src/main/res/layout/activity_boatpose.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/komal/AndroidStudioProjects/LITfit2/app/src/main/res/layout/activity_boatpose1.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/komal/AndroidStudioProjects/LITfit2/app/src/main/res/layout/activity_bridge.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/komal/AndroidStudioProjects/LITfit2/app/src/main/res/layout/activity_bridge13.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/komal/AndroidStudioProjects/LITfit2/app/src/main/res/layout/activity_food.xml" value="0.1" />
+        <entry key="..\:/Users/komal/AndroidStudioProjects/LITfit2/app/src/main/res/layout/activity_food_details.xml" value="0.14444444444444443" />
+        <entry key="..\:/Users/komal/AndroidStudioProjects/LITfit2/app/src/main/res/layout/activity_heeltouch.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/komal/AndroidStudioProjects/LITfit2/app/src/main/res/layout/activity_heeltouch6.xml" value="0.5" />
+        <entry key="..\:/Users/komal/AndroidStudioProjects/LITfit2/app/src/main/res/layout/activity_legraise.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/komal/AndroidStudioProjects/LITfit2/app/src/main/res/layout/activity_legraise5.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/komal/AndroidStudioProjects/LITfit2/app/src/main/res/layout/activity_legupcrunch.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/komal/AndroidStudioProjects/LITfit2/app/src/main/res/layout/activity_legupcrunch7.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/komal/AndroidStudioProjects/LITfit2/app/src/main/res/layout/activity_main.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/komal/AndroidStudioProjects/LITfit2/app/src/main/res/layout/activity_plank.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/komal/AndroidStudioProjects/LITfit2/app/src/main/res/layout/activity_plank10.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/komal/AndroidStudioProjects/LITfit2/app/src/main/res/layout/activity_plankleg.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/komal/AndroidStudioProjects/LITfit2/app/src/main/res/layout/activity_plankleg11.xml" value="0.253125" />
+        <entry key="..\:/Users/komal/AndroidStudioProjects/LITfit2/app/src/main/res/layout/activity_second2.xml" value="0.22870370370370371" />
+        <entry key="..\:/Users/komal/AndroidStudioProjects/LITfit2/app/src/main/res/layout/activity_second3.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/komal/AndroidStudioProjects/LITfit2/app/src/main/res/layout/activity_situp.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/komal/AndroidStudioProjects/LITfit2/app/src/main/res/layout/activity_situp8.xml" value="0.253125" />
+        <entry key="..\:/Users/komal/AndroidStudioProjects/LITfit2/app/src/main/res/layout/activity_splashscreen.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/komal/AndroidStudioProjects/LITfit2/app/src/main/res/layout/activity_third.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/komal/AndroidStudioProjects/LITfit2/app/src/main/res/layout/activity_thirdactivity.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/komal/AndroidStudioProjects/LITfit2/app/src/main/res/layout/activity_twist.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/komal/AndroidStudioProjects/LITfit2/app/src/main/res/layout/activity_twist12.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/komal/AndroidStudioProjects/LITfit2/app/src/main/res/layout/activity_verticalcrunch.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/komal/AndroidStudioProjects/LITfit2/app/src/main/res/layout/activity_verticalcrunch14.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/komal/AndroidStudioProjects/LITfit2/app/src/main/res/layout/activity_vups.xml" value="0.19342053111375346" />
+        <entry key="..\:/Users/komal/AndroidStudioProjects/LITfit2/app/src/main/res/layout/activity_vups9.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/komal/AndroidStudioProjects/LITfit2/app/src/main/res/layout/basiccrunches.xml" value="0.253125" />
+        <entry key="..\:/Users/komal/AndroidStudioProjects/LITfit2/app/src/main/res/layout/bench.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/komal/AndroidStudioProjects/LITfit2/app/src/main/res/layout/bicycle.xml" value="0.6115288220551378" />
+        <entry key="..\:/Users/komal/AndroidStudioProjects/LITfit2/app/src/main/res/layout/boatpose.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/komal/AndroidStudioProjects/LITfit2/app/src/main/res/layout/bridge.xml" value="0.253125" />
+        <entry key="..\:/Users/komal/AndroidStudioProjects/LITfit2/app/src/main/res/layout/button _bg_round.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/komal/AndroidStudioProjects/LITfit2/app/src/main/res/layout/content_main.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/komal/AndroidStudioProjects/LITfit2/app/src/main/res/layout/fragment_first.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/komal/AndroidStudioProjects/LITfit2/app/src/main/res/layout/fragment_second.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/komal/AndroidStudioProjects/LITfit2/app/src/main/res/layout/heeltouch.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/komal/AndroidStudioProjects/LITfit2/app/src/main/res/layout/legraise.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/komal/AndroidStudioProjects/LITfit2/app/src/main/res/layout/legupcrunch.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/komal/AndroidStudioProjects/LITfit2/app/src/main/res/layout/plank.xml" value="0.6115288220551378" />
+        <entry key="..\:/Users/komal/AndroidStudioProjects/LITfit2/app/src/main/res/layout/plankleg.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/komal/AndroidStudioProjects/LITfit2/app/src/main/res/layout/row.xml" value="0.25025641025641027" />
+        <entry key="..\:/Users/komal/AndroidStudioProjects/LITfit2/app/src/main/res/layout/situp.xml" value="0.253125" />
+        <entry key="..\:/Users/komal/AndroidStudioProjects/LITfit2/app/src/main/res/layout/twist.xml" value="0.190625" />
+        <entry key="..\:/Users/komal/AndroidStudioProjects/LITfit2/app/src/main/res/layout/verticalcrunch.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/komal/AndroidStudioProjects/LITfit2/app/src/main/res/menu/main.xml" value="0.25025641025641027" />
+        <entry key="..\:/Users/komal/AndroidStudioProjects/LITfit2/app/src/main/res/menu/menu_main.xml" value="0.25025641025641027" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
